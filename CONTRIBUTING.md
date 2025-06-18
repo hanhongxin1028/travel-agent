@@ -27,6 +27,7 @@ git pull origin dev
 
 ## 4. 创建功能分支
 ```bash
+git checkout dev # 确保目前在 dev 分支
 git checkout -b feature/your-module-name
 ```
 ---
